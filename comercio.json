@@ -1,0 +1,10 @@
+{
+  "schema": 2,
+  "enabled": false,
+  "paymentProvider": "stripe",
+  "registrationRequired": true,
+  "bootstrapURL": "https://ervelio.github.io/parasitos-caninos-soporte/comercio.json",
+  "apiBaseURL": "",
+  "entitlementPublicKey": "",
+  "webEnvironment": "test"
+}
