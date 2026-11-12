@@ -1,10 +1,14 @@
 {
   "schema": 2,
-  "enabled": false,
+  "enabled": true,
+  "apiBaseURL": "https://cesarm150.sg-host.com",
+  "entitlementPublicKey": "K-cquIE2U6PJ98HBDE0Tsab20ZSRZE1p838De17EUec",
+  "webEnvironment": "live",
   "paymentProvider": "stripe",
   "registrationRequired": true,
-  "bootstrapURL": "https://ervelio.github.io/parasitos-caninos-soporte/comercio.json",
-  "apiBaseURL": "",
-  "entitlementPublicKey": "",
-  "webEnvironment": "test"
+  "authProviders": {
+    "google": true,
+    "apple": false
+  },
+  "bootstrapURL": "https://ervelio.github.io/parasitos-caninos-soporte/comercio.json"
 }
