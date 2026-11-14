@@ -10,5 +10,8 @@
     "google": true,
     "apple": false
   },
-  "bootstrapURL": "https://ervelio.github.io/parasitos-caninos-soporte/comercio.json"
+  "bootstrapURL": "https://ervelio.github.io/parasitos-caninos-soporte/comercio.json",
+  "iosExternalCheckoutStorefronts": [
+    "USA"
+  ]
 }
